@@ -30,10 +30,7 @@ In the terminal and within the folder that contains the assessment files.
 2. Navigate to the training folder. - $ cd training
 3. Run the offimlo-train.py - $ python offimlo-train.py
 
-## Folder contents
 
-1. References are in a separate PDF
-2. I have provided the google colab notebook just in case
 
 
 
