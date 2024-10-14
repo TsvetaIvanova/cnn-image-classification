@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+torch==2.2.2  
+torchvision
+matplotlib
+Pillow  
+scipy  
+torchsummary
